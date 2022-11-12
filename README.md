@@ -21,7 +21,6 @@ API Documentation: https://newsapi.org/docs
 
 * [Flutter](https://flutter.io/)
 * [Firebase](https://github.com/flutter/plugins/blob/master/FlutterFire.md)
-* [Google Sign In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in)
 * [Flutter Webview Plugin](https://github.com/dart-flitter/flutter_webview_plugin)
 * [News API](https://newsapi.org/)
 
@@ -51,5 +50,17 @@ $ cd Ignite-News/
 ```sh
 $ flutter run
 ```
+
+Installation
+
+```sh
+flutter pub get
+```
+Run the app 
+
+```sh
+flutter run
+```
+
 
 
