@@ -1,4 +1,4 @@
-# Idnite News
+# Ignite News
 
 News App created in Flutter using News API for fetching realtime data and Firebase as the backend and authenticator.
 
@@ -45,18 +45,12 @@ $ cd Ignite-News/
 * Click the "sign-in method" tab
 * Click "Google" and enable it
 
-#### 4. Run the app
-
-```sh
-$ flutter run
-```
-
-Installation
+#### 4. Installation
 
 ```sh
 flutter pub get
 ```
-Run the app 
+#### 5. Run the app 
 
 ```sh
 flutter run
