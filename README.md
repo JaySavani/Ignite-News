@@ -8,8 +8,6 @@ Data Provider: https://newsapi.org/
 
 API Documentation: https://newsapi.org/docs
 
-Youtube Tutorial Link: https://youtu.be/M8gRcFRdhxo
-
 <p float="left">
 </p>
 
